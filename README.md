@@ -6,7 +6,8 @@ Realizado por Leonardo Pelegrin Rocha  RA-223538  Referente a disciplina Qualida
 
 ## Classe de Testes
 Aqui temos o arquivo/classe de testes onde foi inserido os cenários propostos obedecendo as tags e o formato do COCUMBER.
-![image](https://github.com/LeonardoPelegrin/BDD-Ohata/assets/110860762/12a79ad1-7c9a-4136-8d97-48047cef5cbf)
+![image](https://github.com/LeonardoPelegrin/BDD-Ohata/assets/110860762/f1a2e17f-a4f7-4732-bf99-56ac991fa610)
+
 
 ## Orientação Cucumber
 Aqui temos a orientação do cucumber no que deve ser implementado no projeto como base na classe de testes.
